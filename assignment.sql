@@ -236,8 +236,8 @@ INSERT INTO Enrollment VALUES
 --   TO RUN THESE QUERIES DIRECTLY ON SQL COMMAND LINE TOOL 
 -- -- Open command line and navigate to the directory containing the database file
 -- -For example, if using SQLite on Windows:
-    -- cd "D:\programing\database_assignment"
-    -- & "D:\database\sqlIte\sqlite3.exe" "university.db"
+    -- cd "" (// PATH TO THE FOLDER CONTAING THE SQL FILE)
+    -- & "" "university.db"  (// PATH TO FILELE CONTAING YOUR SQLITE .EXE FILE 
 -- -Then run the SQL file:
 --     .read assignment.sql
 --   TO RUN THESE QUERIES IN A SQL CLIENT
