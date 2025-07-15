@@ -1,7 +1,6 @@
 /* =========================================================
    UNIVERSITY COMMUNITY SYSTEM - FULL BUILD & DEMO
    ========================================================= */
-
 /* ---------- 0. Clean slate (safe for re-runs) ---------- */
 DROP TABLE IF EXISTS Enrollment;
 DROP TABLE IF EXISTS Teaching;
