@@ -5,11 +5,13 @@
 
 --  GROUP MEMBERS: 
 -- 1. BSCCS/2023/72217 - CLINTON MOTARI
--- 2. BSCCS/2023/63059- ISAAC GICHUKI
+-- 2. BSCCS/2023/63059- ISAAC GICHUKI.
 -- 3. BSCCS/2023/61032 - MARK MURIITHI
 -- 4. BSCCS/2023/59990 - SARAH KAGIA
 -- 5. BSCCS /2023/57581-PHILOMENA MUGENDI
--- 6. BSCCS/2023/59553 - VICTOR KIHANDA
+-- 6. BSCCS/2023/59553 - VICTOR KIHANDA                                                                                                                      7. BSCCS/2023/68246 - ABDINASSIR HASSAN
+-- 8. BSCCS/2023/59328 - JAMIL JAMAL
+-- 9. BSCCS202367374 - DAVID GATBEL
 
 
 /* ---------- 0. Clean slate (safe for re-runs) ---------- */
