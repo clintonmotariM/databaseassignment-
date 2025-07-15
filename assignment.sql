@@ -5,11 +5,15 @@
 
 --  GROUP MEMBERS: 
 -- 1. BSCCS/2023/72217 - CLINTON MOTARI
--- 2. BSCCS/2023/63059- ISAAC GICHUKI
+-- 2. BSCCS/2023/63059- ISAAC GICHUKI.
 -- 3. BSCCS/2023/61032 - MARK MURIITHI
 -- 4. BSCCS/2023/59990 - SARAH KAGIA
--- 5. BSCCS /2023/57581-PHILOMENA MUGENDI
+-- 5. BSCCS/2023/57581 - PHILOMENA MUGENDI
 -- 6. BSCCS/2023/59553 - VICTOR KIHANDA
+-- 7. BSCCS/2023/68246 - ABDINASSIR HASSAN
+-- 8. BSCCS/2023/59328 - JAMIL JAMAL
+-- 9. BSCCS202367374 - David Gatbel
+-- 10. BSCCS/2023/62743 - VALERY MWENDE MWITI
 
 
 /* ---------- 0. Clean slate (safe for re-runs) ---------- */
@@ -234,8 +238,8 @@ INSERT INTO Enrollment VALUES
 --   TO RUN THESE QUERIES DIRECTLY ON SQL COMMAND LINE TOOL 
 -- -- Open command line and navigate to the directory containing the database file
 -- -For example, if using SQLite on Windows:
-    -- cd "D:\programing\database_assignment"
-    -- & "D:\database\sqlIte\sqlite3.exe" "university.db"
+    -- cd "" (// PATH TO THE FOLDER CONTAING THE SQL FILE)
+    -- & "" "university.db"  (// PATH TO FILELE CONTAING YOUR SQLITE .EXE FILE 
 -- -Then run the SQL file:
 --     .read assignment.sql
 --   TO RUN THESE QUERIES IN A SQL CLIENT
